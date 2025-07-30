@@ -1,0 +1,8 @@
+# Abaikan file dependensi Node.js
+node_modules/
+
+# Abaikan file kunci Firebase
+firebase-service-key.json
+
+# Abaikan file environment lokal (jika ada)
+.env
